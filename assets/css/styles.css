@@ -195,7 +195,7 @@ tr:hover {
 
 	.navBar {
 	  overflow: hidden;
-	  background-color: #696969;
+	  background-color: #8781e0;
 	}
 
 	.navBar a {
@@ -214,7 +214,7 @@ tr:hover {
 	}
 
 	.navBar a.active {
-	  background-color: #0C7A14;
+	  background-color: #0c0e7a;
 	  color: white;
 	}
 
